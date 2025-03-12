@@ -1,7 +1,7 @@
 *Gabby* is a tool to generate digital versions of grammar exercices found in school books.
 It's part of the MALIN project.
 
-*Gabby* is still in the early days of its development.
+Development on *Gabby* is currently paused while the MALIN team evaluates the use of LLMs.
 
 # Hosted demo
 
