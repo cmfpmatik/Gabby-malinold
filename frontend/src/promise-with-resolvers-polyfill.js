@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 // Polyfill required for Electron 118, still used by Cypress 13.9.0
 if (Promise.withResolvers === undefined) {
   Promise.withResolvers = function() {

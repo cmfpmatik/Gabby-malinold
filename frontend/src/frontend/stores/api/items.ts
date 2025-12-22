@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { reactive } from 'vue'
 import type { Requester, RequesterItemResponse } from './requester'
 import { itemTypes } from './interface'

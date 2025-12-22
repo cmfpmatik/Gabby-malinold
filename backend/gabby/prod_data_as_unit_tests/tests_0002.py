@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 # WARNING: this file is generated (from database content). Manual changes will be lost.
 
 from .. import exercises as e

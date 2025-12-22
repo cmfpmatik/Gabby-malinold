@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import LanguageSelector from './LanguageSelector.vue'
 import { i18n } from '$/locales'
 

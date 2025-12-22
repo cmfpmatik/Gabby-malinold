@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 from __future__ import annotations
 from contextlib import contextmanager
 import dataclasses

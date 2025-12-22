@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 import { BLabeledCheckbox } from '../../../../components/opinion/bootstrap'
 import type { Model } from './ExerciseFieldsForm.vue'

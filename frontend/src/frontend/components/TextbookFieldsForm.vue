@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script lang="ts">
 import type { Textbook, InCache, Exists } from '$frontend/stores/api'
 

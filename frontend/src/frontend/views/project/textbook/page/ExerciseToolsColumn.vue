@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script lang="ts">
 import { InlineBlot, BoldBlot, ItalicBlot, HighlightedBlot } from '$frontend/components/Quill.vue'
 import { Choices2Blot, McqField } from './MultipleChoicesTools.vue'

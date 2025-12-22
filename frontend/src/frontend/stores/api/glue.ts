@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { ref } from 'vue'
 import type { Ref } from 'vue'
 import { pauseTracking, resetTracking } from '@vue/reactivity'

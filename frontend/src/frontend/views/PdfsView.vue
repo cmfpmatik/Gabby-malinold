@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 import { computed, reactive, ref, toRaw, watch } from 'vue'
 import { computedAsync } from '@vueuse/core'

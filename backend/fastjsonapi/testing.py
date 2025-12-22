@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 from contextlib import contextmanager
 import json
 import inspect

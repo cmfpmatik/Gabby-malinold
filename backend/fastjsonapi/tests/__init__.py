@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 # class TreeNode(BaseModel):
 #     label: str | None = None
 #     parent : TreeNode | None = None

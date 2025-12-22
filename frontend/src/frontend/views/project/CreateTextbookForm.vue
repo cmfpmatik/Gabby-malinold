@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 import { ref, reactive } from 'vue'
 import { useRouter } from 'vue-router'

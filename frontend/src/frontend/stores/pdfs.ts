@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { defineStore } from 'pinia'
 import {} from 'pinia-shared-state'  // For TypeScript. @todo Remove line when 'main.js' is replaced by 'main.ts'
 // @ts-ignore/* Temporary untyped */

@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 import { useFloating, arrow, shift } from '@floating-ui/vue'
 import { computed, ref, watch } from 'vue'

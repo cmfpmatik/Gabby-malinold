@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { createI18n } from 'vue-i18n'
 
 import opinionEn from './opinion/en.json'

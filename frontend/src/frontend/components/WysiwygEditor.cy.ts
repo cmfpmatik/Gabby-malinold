@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { type Model } from './Quill.vue'
 import WysiwygEditor from './WysiwygEditor.vue'
 

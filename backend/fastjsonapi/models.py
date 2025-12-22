@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import textwrap
 from types import UnionType
 from typing import Literal, Type

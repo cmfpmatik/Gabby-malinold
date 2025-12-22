@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { createApp } from 'vue'
 import { createRouter, createWebHistory, RouterView } from 'vue-router'
 import { createPinia } from 'pinia'

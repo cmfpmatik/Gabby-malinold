@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 defineOptions({
   // Disable attribute inheritance to apply all fallthrough attributes to the textarea

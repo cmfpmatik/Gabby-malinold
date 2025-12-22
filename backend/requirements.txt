@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 alembic  # Database migrations
 argon2-cffi  # Password hasher
 black  # Code formatter, used by Alembic

@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 import type { List } from '$frontend/stores/api'
 import { BBusy } from '$frontend/components/opinion/bootstrap'

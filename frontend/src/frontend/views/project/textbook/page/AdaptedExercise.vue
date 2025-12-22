@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 import { ref, computed, watch, provide } from 'vue'
 import { useWindowSize, useElementBounding } from '@vueuse/core'

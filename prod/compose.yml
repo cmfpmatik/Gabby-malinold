@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 # https://docs.docker.com/compose/compose-file/
 
 name: gabby-prod-preview

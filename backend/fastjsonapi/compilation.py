@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 # from __future__ import annotations  # This doesn't work because we're annotating with local types. So this code won't work on Python 4. OK.
 from typing import Type
 from urllib.parse import urlencode

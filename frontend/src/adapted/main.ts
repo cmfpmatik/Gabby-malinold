@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { createApp } from 'vue'
 import { createRouter, createWebHashHistory, RouterView } from 'vue-router'
 import 'bootstrap/dist/css/bootstrap-reboot.min.css'

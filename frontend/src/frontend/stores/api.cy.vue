@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 import Pinger from '$frontend/components/opinion/Pinger.vue'
 import { BBusy, BRow, BCol } from '$frontend/components/opinion/bootstrap'

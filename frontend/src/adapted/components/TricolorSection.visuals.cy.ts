@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import TricolorSection from './TricolorSection.vue'
 import type { Paragraph } from '$adapted/types'
 

@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { defineApiStore, resetApiStores } from './api'
 import TestComponent from './api.cy.vue'
 import { computed, watch } from 'vue'

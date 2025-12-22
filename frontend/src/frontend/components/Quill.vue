@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script lang="ts">
 import Quill, { Parchment } from 'quill/core'
 import Block from 'quill/blots/block'

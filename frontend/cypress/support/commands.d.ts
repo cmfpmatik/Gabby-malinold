@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { mount } from 'cypress/vue'
 
 type MountParams = Parameters<typeof mount>

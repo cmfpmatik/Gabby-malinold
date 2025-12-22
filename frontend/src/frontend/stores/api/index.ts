@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { makeStore } from "./glue"
 import type { ApiStore, Item, List, InCache, Exists } from "./interface"
 

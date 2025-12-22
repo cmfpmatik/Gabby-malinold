@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { defineApiStore, resetApiStores } from '$frontend/stores/api'
 import Pinger from './Pinger.vue'
 

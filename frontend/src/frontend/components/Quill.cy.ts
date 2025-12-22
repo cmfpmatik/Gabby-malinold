@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import Quill, { type Model, InlineBlot, BoldBlot, ItalicBlot, BlockEmbed, InlineEmbed } from './Quill.vue'
 
 

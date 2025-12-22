@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 from .exercises import Exercise
 from .pdfs import PdfFile, PdfFileNaming
 from .pings import Ping

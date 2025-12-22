@@ -1,7 +1,14 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 *Gabby* is a tool to generate digital versions of grammar exercices found in school books.
 It's part of the MALIN project.
 
 Development on *Gabby* is currently paused while the MALIN team evaluates the use of LLMs.
+
+# Licensing
+
+No license has been chosen yet, so all author's rights are reserved for now.
+**TODO: We must choose a license to allow anyone else than the original authors to use or contribute to this project. We must not let people think they can do so freely, because we would mislead them into doing something illegal.**
 
 # Hosted demo
 

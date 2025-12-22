@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 from .annotations import Constant, Computed, Secret
 from .annotations import Computed as ReadOnly, Secret as WriteOnly
 from .router import make_jsonapi_router

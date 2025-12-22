@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 FROM python:3.12
 
 # https://docs.docker.com/engine/reference/builder/#run---mounttypecache

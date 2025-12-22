@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { setActivePinia, createPinia } from 'pinia'
 // @ts-ignore/* Temporary untyped */
 import * as untypedPdfjs from 'pdfjs-dist/build/pdf'

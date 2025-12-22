@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script lang="ts">
 import { useApiStore } from '$frontend/stores/api'
 import type { Project, Textbook, Exercise, InCache, Exists } from '$frontend/stores/api'

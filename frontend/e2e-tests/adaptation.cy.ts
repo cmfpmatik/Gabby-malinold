@@ -1,3 +1,5 @@
+// Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 import { loadFixtures, login, notBusy, visit, selectRange, pressEnter } from './utils'
 
 

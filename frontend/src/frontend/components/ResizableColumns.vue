@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script lang="ts">
 function sum(a: number[]) {
   return a.reduce((a, b) => a + b, 0)

@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts" generic="T">
 import { label as makeLabel, value as makeValue, disabled as makeDisabled, type Option } from './Select.vue'
 import Radio from './Radio.vue'

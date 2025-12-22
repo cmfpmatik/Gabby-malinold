@@ -1,3 +1,5 @@
+# Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net>
+
 from typing import Literal, Annotated
 
 from pydantic import AliasChoices

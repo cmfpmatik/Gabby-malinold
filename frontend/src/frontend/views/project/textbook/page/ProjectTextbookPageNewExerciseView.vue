@@ -1,3 +1,5 @@
+<!-- Copyright 2024-2025 Vincent Jacques <vincent@vincent-jacques.net> -->
+
 <script setup lang="ts">
 import { ref, computed, reactive, nextTick } from 'vue'
 import { onMounted } from 'vue'
